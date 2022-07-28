@@ -118,3 +118,6 @@ This is an example of a possible HTML output, you will have to replace the name,
 ```
 
 # Profile-Card-Generator
+# Profile-Card-Generator
+# Profile-Card-Generator
+# Profile-Card-Generator
